@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Examples\\Exampe001_HelloConsole\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
+    "E:\\Example\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
   },
   "projects": {
-    "E:\\Examples\\Exampe001_HelloConsole\\Example002_HelloUser\\Example002_HelloUser.csproj": {
+    "E:\\Example\\Example002_HelloUser\\Example002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Examples\\Exampe001_HelloConsole\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectUniqueName": "E:\\Example\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "projectName": "Example002_HelloUser",
-        "projectPath": "E:\\Examples\\Exampe001_HelloConsole\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectPath": "E:\\Example\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\Наталья\\.nuget\\packages\\",
-        "outputPath": "E:\\Examples\\Exampe001_HelloConsole\\Example002_HelloUser\\obj\\",
+        "outputPath": "E:\\Example\\Example002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Наталья\\AppData\\Roaming\\NuGet\\NuGet.Config"

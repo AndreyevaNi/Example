@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Examples\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj": {}
+    "E:\\Example\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj": {}
   },
   "projects": {
-    "E:\\Examples\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj": {
+    "E:\\Example\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Examples\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj",
+        "projectUniqueName": "E:\\Example\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj",
         "projectName": "Exampe001_HelloConsole",
-        "projectPath": "E:\\Examples\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj",
+        "projectPath": "E:\\Example\\Exampe001_HelloConsole\\Exampe001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Наталья\\.nuget\\packages\\",
-        "outputPath": "E:\\Examples\\Exampe001_HelloConsole\\obj\\",
+        "outputPath": "E:\\Example\\Exampe001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Наталья\\AppData\\Roaming\\NuGet\\NuGet.Config"

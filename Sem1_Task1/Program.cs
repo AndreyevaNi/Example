@@ -31,7 +31,7 @@ if (dayOfWeek == 7)
 {
       Console.WriteLine("Воскресенье" );
 }
-else
+if (dayOfWeek <1 || dayOfWeek >7 )
 {
     Console.WriteLine("Неправильно. нет такого дня" );
 }

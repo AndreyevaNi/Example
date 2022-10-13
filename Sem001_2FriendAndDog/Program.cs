@@ -1,5 +1,7 @@
 ﻿//Console.Write("Input SpeedFirstFriend");
 int SpeedFirstFriend = 15;//Console.ReadLine();
+//string inputString = Console.ReadLine(); //получаем строку с консоли
+//int value = Convert.ToInt32(inputString ); //конвертируем к целому типу
 
 //Console.Write("Input SpeedSecondFriend");
 int SpeedSecondFriend = 10;//Console.ReadLine();

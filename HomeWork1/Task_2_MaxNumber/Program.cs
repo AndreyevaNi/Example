@@ -30,11 +30,7 @@ else
     MaxNum = Number2;
 }
 
-if (MaxNum > Number3)
-{
-    MaxNum = MaxNum;
-}
-else
+if (MaxNum < Number3)
 {
     MaxNum = Number3;
 }

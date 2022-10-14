@@ -20,7 +20,5 @@ while (EvenNum <= Number1)
             System.Console.Write(", "); //Вывод разделителя, если значение не последнее
         }
     }
-
     EvenNum++;
-
 }

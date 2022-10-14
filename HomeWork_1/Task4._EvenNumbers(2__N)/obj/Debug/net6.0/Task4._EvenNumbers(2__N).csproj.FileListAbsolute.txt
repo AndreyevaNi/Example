@@ -1,0 +1,15 @@
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).csproj.AssemblyReference.cache
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).GeneratedMSBuildEditorConfig.editorconfig
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).AssemblyInfoInputs.cache
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).AssemblyInfo.cs
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).csproj.CoreCompileInputs.cache
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\bin\Debug\net6.0\Task4._EvenNumbers(2__N).exe
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\bin\Debug\net6.0\Task4._EvenNumbers(2__N).deps.json
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\bin\Debug\net6.0\Task4._EvenNumbers(2__N).runtimeconfig.json
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\bin\Debug\net6.0\Task4._EvenNumbers(2__N).dll
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\bin\Debug\net6.0\Task4._EvenNumbers(2__N).pdb
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).dll
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\refint\Task4._EvenNumbers(2__N).dll
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).pdb
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\Task4._EvenNumbers(2__N).genruntimeconfig.cache
+E:\Example\HomeWork_1\Task4._EvenNumbers(2__N)\obj\Debug\net6.0\ref\Task4._EvenNumbers(2__N).dll

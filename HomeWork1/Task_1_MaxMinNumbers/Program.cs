@@ -16,10 +16,10 @@ double Number2 = Convert.ToDouble(inputString);
 
 if (Number1 > Number2)
 {
-      System.Console.WriteLine("Max: "+ Number1+ " Min: " + Number2);
+    System.Console.WriteLine("Max: " + Number1 + " Min: " + Number2);
 
 }
-else 
+else
 {
-    System.Console.WriteLine("Max: "+ Number2+ " Min: " + Number1);
+    System.Console.WriteLine("Max: " + Number2 + " Min: " + Number1);
 }

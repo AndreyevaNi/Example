@@ -9,23 +9,18 @@ System.Console.Write("Введите число больше 0: ");
 string inputString = Console.ReadLine();
 int Number1 = Convert.ToInt32(inputString);
 
- int EvenNum= 1;
+int EvenNum = 1;
 while (EvenNum <= Number1)
 {
     if (EvenNum % 2 == 0)
     {
-       if (EvenNum < Number1-1)
-       { 
-        System.Console.Write(EvenNum + ", ");
-       }
-       else 
-       {
-         System.Console.Write(EvenNum);
-       }
-        EvenNum++;
+        System.Console.Write(EvenNum);
+        if (EvenNum < Number1 - 1)
+        {
+            System.Console.Write(", "); //Вывод разделителя, если значение не последнее
+        }
     }
-    else
-    {
-        EvenNum++;
-    }
+
+    EvenNum++;
+
 }

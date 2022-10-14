@@ -10,11 +10,11 @@ System.Console.WriteLine("Введите число");
 string inputString = Console.ReadLine();
 int Number1 = Convert.ToInt32(inputString);
 
-if (Number1 % 2 ==0)
+if (Number1 % 2 == 0)
 {
-      System.Console.WriteLine("Число "+ Number1+ " является четным");
+    System.Console.WriteLine("Число " + Number1 + " является четным");
 }
-else 
+else
 {
-    System.Console.WriteLine("Число "+ Number1+ " является нечетным");
+    System.Console.WriteLine("Число " + Number1 + " является нечетным");
 }

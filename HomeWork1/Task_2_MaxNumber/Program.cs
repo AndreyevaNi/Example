@@ -25,19 +25,19 @@ if (Number1 > Number2)
 {
     MaxNum = Number1;
 }
-else 
+else
 {
-   MaxNum = Number2;
+    MaxNum = Number2;
 }
 
 if (MaxNum > Number3)
 {
     MaxNum = MaxNum;
 }
-else 
+else
 {
-   MaxNum = Number3;
+    MaxNum = Number3;
 }
 
 
-System.Console.WriteLine("Введены числа: "+ Number1 +";" +Number2 +";" +Number3 +". Наибольшим является: " + MaxNum);
+System.Console.WriteLine("Введены числа: " + Number1 + ";" + Number2 + ";" + Number3 + ". Наибольшим является: " + MaxNum);

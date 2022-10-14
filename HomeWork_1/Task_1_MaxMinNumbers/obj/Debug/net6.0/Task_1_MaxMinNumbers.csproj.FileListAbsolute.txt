@@ -1,0 +1,15 @@
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.csproj.AssemblyReference.cache
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.AssemblyInfoInputs.cache
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.AssemblyInfo.cs
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.csproj.CoreCompileInputs.cache
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\bin\Debug\net6.0\Task_1_MaxMinNumbers.exe
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\bin\Debug\net6.0\Task_1_MaxMinNumbers.deps.json
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\bin\Debug\net6.0\Task_1_MaxMinNumbers.runtimeconfig.json
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\bin\Debug\net6.0\Task_1_MaxMinNumbers.dll
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\bin\Debug\net6.0\Task_1_MaxMinNumbers.pdb
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.dll
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\refint\Task_1_MaxMinNumbers.dll
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.pdb
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\Task_1_MaxMinNumbers.genruntimeconfig.cache
+E:\Example\HomeWork_1\Task_1_MaxMinNumbers\obj\Debug\net6.0\ref\Task_1_MaxMinNumbers.dll

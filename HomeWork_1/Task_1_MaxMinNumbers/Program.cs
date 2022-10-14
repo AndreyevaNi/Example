@@ -7,18 +7,19 @@
 System.Console.WriteLine("Введите первое число");
 string inputString = Console.ReadLine();
 double Number1 = Convert.ToDouble(inputString);
-//inputString = "";
-System.Console.WriteLine("Введите первое число");
+
+System.Console.WriteLine("Введите второе число");
 inputString = Console.ReadLine();
 double Number2 = Convert.ToDouble(inputString);
+
 // *********Конец. Блок ввода двух чисел и преобразование их к вещественному типу*****//
 
 if (Number1 > Number2)
 {
-      System.Console.WriteLine("Число: "+ Number1+ " больше, чем число: " + Number2);
+      System.Console.WriteLine("Max: "+ Number1+ " Min: " + Number2);
 
 }
 else 
 {
-    System.Console.WriteLine("Число: "+ Number2+ " больше, чем число: " + Number1);
+    System.Console.WriteLine("Max: "+ Number2+ " Min: " + Number1);
 }

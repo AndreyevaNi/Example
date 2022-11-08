@@ -2,7 +2,7 @@
 Задача 2: Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
 */
 
-
+/*
 int PromptInt(string strDescription) // Ввод целого числа
 {
 try
@@ -43,3 +43,4 @@ if (ValidateQuarter(Quarter))
 System.Console.Write(message);
 return int.Parse(Console.ReadLine());
 }
+*/

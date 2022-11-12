@@ -30,7 +30,7 @@ void SequenceOfNumbers(int total, int outputDigit, int counterOutputNumbers)
 
 void Execute()
 {
-    int number = Prompt("Введите целое положительное число , больше 0: ");
+    int number = Prompt("Введите целое положительное число, больше 0: ");
     SequenceOfNumbers(number, 1, 1);
 }
 Execute();

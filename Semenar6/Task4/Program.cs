@@ -12,7 +12,7 @@ int[] CopyArr(int[] arr)
 
     return result;
 }
-
+/*
 void Runner()
 {
     int[] arr1 = CreateArray(len:5);
@@ -33,3 +33,4 @@ void Runner()
 }
 
 Runner();
+*/

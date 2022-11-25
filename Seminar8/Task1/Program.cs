@@ -1,5 +1,5 @@
 ﻿
-
+/*
 
 
 int PromptInt(string strMessage)
@@ -27,7 +27,7 @@ int Prompt(string message)
     }
 }
 
-
+*/
 
 
 // Задача 1: Задайте двумерный массив. Напишите программу, которая поменяет местами
